@@ -1,0 +1,7 @@
+E:\Bellevue College (Chris)\Programming\PROG 120 (Advanced C#)\BoxingUnboxing\BoxingUnboxing\bin\Debug\BoxingUnboxing.exe.config
+E:\Bellevue College (Chris)\Programming\PROG 120 (Advanced C#)\BoxingUnboxing\BoxingUnboxing\bin\Debug\BoxingUnboxing.exe
+E:\Bellevue College (Chris)\Programming\PROG 120 (Advanced C#)\BoxingUnboxing\BoxingUnboxing\bin\Debug\BoxingUnboxing.pdb
+E:\Bellevue College (Chris)\Programming\PROG 120 (Advanced C#)\BoxingUnboxing\BoxingUnboxing\obj\Debug\BoxingUnboxing.csprojResolveAssemblyReference.cache
+E:\Bellevue College (Chris)\Programming\PROG 120 (Advanced C#)\BoxingUnboxing\BoxingUnboxing\obj\Debug\BoxingUnboxing.csproj.CoreCompileInputs.cache
+E:\Bellevue College (Chris)\Programming\PROG 120 (Advanced C#)\BoxingUnboxing\BoxingUnboxing\obj\Debug\BoxingUnboxing.exe
+E:\Bellevue College (Chris)\Programming\PROG 120 (Advanced C#)\BoxingUnboxing\BoxingUnboxing\obj\Debug\BoxingUnboxing.pdb
